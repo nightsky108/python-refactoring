@@ -7,4 +7,5 @@
 -Follow this rule
   https://data-flair.training/blogs/python-best-practices/
 -Make one repo with all scrapers, and use same Browser class.
--include private/protected methods, and comments 
+-include private/protected methods, and comments, etc
+-remove the dtabase, s3 bucekt parts into own class, also remove browser part into own class, etc.
